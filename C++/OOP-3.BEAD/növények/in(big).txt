@@ -1,0 +1,16 @@
+14
+Falank p 8
+Orrit p 7
+Szimen p 4
+Sudar d 7
+Kelemen d 3
+Csobak d 4
+Palaca d 5
+Remete d 4
+Tolar d 2
+Terin d 5
+Illiasz d 8
+Leko b 4
+Elton b 6
+Spartacus b 4
+50

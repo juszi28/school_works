@@ -1,0 +1,6 @@
+Andras 40
+Elephant Africa 2000 1000 120 130
+Lion Asia 2001 670 male
+Lion Asia 2001 690 male
+Lion Asia 2002 600 female
+Rhinoceros Asia 2003 3000 300

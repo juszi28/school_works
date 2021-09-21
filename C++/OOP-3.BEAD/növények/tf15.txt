@@ -1,0 +1,5 @@
+3
+Falank p 5
+Sudar d 6
+Durci d 6
+7
